@@ -1,1 +1,3 @@
 This is LAB-01 on GITHUB
+
+1) First task --> Git pull
